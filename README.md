@@ -2,6 +2,8 @@
 
 Link to project article:
 
+![medium-shot-men-playing-drums](https://user-images.githubusercontent.com/65142149/227276537-2eb01c3e-3fb0-4a03-a81a-ef554acc52ba.jpg)
+
 ## Problem Statement
 
 Especially in Africa, cultures are being lost to civilization and technology. This has brought up this project idea to try to preserve these cultures and what other way than to have AI do the job!
@@ -44,3 +46,10 @@ https://www.analyticsvidhya.com/blog/author/inuwamobarak/
 https://www.linkedin.com/in/mobarak-inuwa/
 
 https://mobarak.mystrikingly.com/
+
+Reference:
+Dataset: https://drive.google.com/drive/folders/1jhMG6vnsKqDm5uILBMLezU2Ll5ljWOZy?usp=sharing
+
+Image link: https://www.freepik.com/free-photo/medium-shot-men-playing-drums_16130603.htm#from_view=detail_serie
+
+Image link: https://www.freepik.com/free-vector/african-people-clothing-flat-icons-collection_4006260.htm#query=african%20attire&position=32&from_view=search&track=ais
