@@ -16,4 +16,32 @@ Deep learning algorithm is used to classify 8 African attires. The backend frame
 
 ![72ee2155-d442-4bbb-8175-a31bc0520474](https://user-images.githubusercontent.com/65142149/212472255-163792e2-ba22-4ec1-a8d2-29fe3b8e2bfb.jpeg)
 
-![download (1)](https://user-images.githubusercontent.com/65142149/226734469-a378d6a6-900d-49c1-b017-207fba8e0780.png)
+## Dataset Description
+The dataset of images of African attires was gathered from the internet using the Google Chrome extension to scrape the web.
+*  It contains images belonging to 8 classes.
+*  The directory has 9784 images belonging to 8 classes for training and,
+*  2579 files belonging to 8 classes for validation of the model.
+*  The dataset consists of a total of 12,363 images containing 8 classes.
+*  The classes are tribes in Africa which are:
+      *  Adire (from Nigeria)
+      *  Idgo (from Nigeria)
+      *  Idoma (from Nigeria)
+      *  Igala (from Nigeria)
+      *  Tiv (from Nigeria)
+      *  Tswana-Shweshwe (from South Africa)
+      *  Xhosa-South Africa (from South Africa)
+      *  Zulu (from South Africa)
+
+![Class Diagram Realization Example](https://user-images.githubusercontent.com/65142149/227274778-dc7891a9-908e-4682-98b8-2b68c1a534e5.png)
+
+***Dataset Class diagram
+
+`Feel free to follow me on social media:`
+
+https://twitter.com/InuwaAbraham
+
+https://www.analyticsvidhya.com/blog/author/inuwamobarak/
+
+https://www.linkedin.com/in/mobarak-inuwa/
+
+https://mobarak.mystrikingly.com/
