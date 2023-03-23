@@ -38,7 +38,8 @@ Dataset Class diagram
 
 ![Class Diagram Realization Example](https://user-images.githubusercontent.com/65142149/227274778-dc7891a9-908e-4682-98b8-2b68c1a534e5.png)
 
-Feel free to follow me and ask questions:
+*Feel free to follow me and ask questions:*
+
 https://twitter.com/InuwaAbraham
 
 https://www.analyticsvidhya.com/blog/author/inuwamobarak/
@@ -47,7 +48,8 @@ https://www.linkedin.com/in/mobarak-inuwa/
 
 https://mobarak.mystrikingly.com/
 
-Reference:
+*Reference:*
+
 Dataset: https://drive.google.com/drive/folders/1jhMG6vnsKqDm5uILBMLezU2Ll5ljWOZy?usp=sharing
 
 Image link: https://www.freepik.com/free-photo/medium-shot-men-playing-drums_16130603.htm#from_view=detail_serie
