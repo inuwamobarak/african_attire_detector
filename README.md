@@ -32,12 +32,11 @@ The dataset of images of African attires was gathered from the internet using th
       *  Xhosa-South Africa (from South Africa)
       *  Zulu (from South Africa)
 
+Dataset Class diagram
+
 ![Class Diagram Realization Example](https://user-images.githubusercontent.com/65142149/227274778-dc7891a9-908e-4682-98b8-2b68c1a534e5.png)
 
-***Dataset Class diagram
-
-`Feel free to follow me on social media:`
-
+Feel free to follow me and ask questions:
 https://twitter.com/InuwaAbraham
 
 https://www.analyticsvidhya.com/blog/author/inuwamobarak/
