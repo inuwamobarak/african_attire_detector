@@ -7,6 +7,8 @@
 
 This repository contains a deep learning project focused on African attire detection. The project aims to develop a model that can classify eight local African attires, primarily from countries like Nigeria and South Africa. By preserving and utilizing this model, it becomes easier for foreigners and future generations to identify and appreciate the cultural artifacts of African tribes.
 
+![medium-shot-men-playing-drums](https://user-images.githubusercontent.com/65142149/227276537-2eb01c3e-3fb0-4a03-a81a-ef554acc52ba.jpg)
+
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Approach](#approach)
