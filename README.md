@@ -1,57 +1,88 @@
 # Deep learning for Fashionistas: African Attire Detection
 
-Link to project article:
+![GitHub repo size](https://img.shields.io/github/repo-size/inuwamobarak/african_attire_detector)
+![GitHub stars](https://img.shields.io/github/stars/inuwamobarak/african_attire_detector?style=social)
+![GitHub forks](https://img.shields.io/github/forks/inuwamobarak/african_attire_detector?style=social)
+![GitHub](https://img.shields.io/github/license/inuwamobarak/african_attire_detector)
 
-![medium-shot-men-playing-drums](https://user-images.githubusercontent.com/65142149/227276537-2eb01c3e-3fb0-4a03-a81a-ef554acc52ba.jpg)
+This repository contains a deep learning project focused on African attire detection. The project aims to develop a model that can classify eight local African attires, primarily from countries like Nigeria and South Africa. By preserving and utilizing this model, it becomes easier for foreigners and future generations to identify and appreciate the cultural artifacts of African tribes.
+
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Approach](#approach)
+- [Dataset Description](#dataset-description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+- [References](#references)
 
 ## Problem Statement
-
-Especially in Africa, cultures are being lost to civilization and technology. This has brought up this project idea to try to preserve these cultures and what other way than to have AI do the job!
-
-Smart systems can be developed including Chatbots, image identifiers, and text-to-speech to help combat culture loss and help preserve our heritages.
-
-We will are building a model to help classify eight local African attires in countries including Nigeria and South Africa.. Preserving this kind of model will help foreigners and the next generation to easily identify their cultural artifacts.
+The preservation of African cultures is crucial, especially with the encroachment of civilization and technology. This project aims to leverage AI to combat culture loss and preserve African heritages. By developing deep learning algorithms and smart systems like chatbots, image identifiers, and text-to-speech, we can ensure the preservation and accessibility of African cultures.
 
 ## Approach
-Deep learning algorithm is used to classify 8 African attires. The backend framework is TensorFlow. The IDE is Colab, and the accuracy is open to further improvement.
-
-
-![72ee2155-d442-4bbb-8175-a31bc0520474](https://user-images.githubusercontent.com/65142149/212472255-163792e2-ba22-4ec1-a8d2-29fe3b8e2bfb.jpeg)
+The project utilizes a deep learning algorithm with TensorFlow as the backend framework. The development environment is Colab, and the accuracy of the model is open to further improvement. The goal is to train the model to classify eight African attires accurately.
 
 ## Dataset Description
-The dataset of images of African attires was gathered from the internet using the Google Chrome extension to scrape the web.
-*  It contains images belonging to 8 classes.
-*  The directory has 9784 images belonging to 8 classes for training and,
-*  2579 files belonging to 8 classes for validation of the model.
-*  The dataset consists of a total of 12,363 images containing 8 classes.
-*  The classes are tribes in Africa which are:
-      *  Adire (from Nigeria)
-      *  Idgo (from Nigeria)
-      *  Idoma (from Nigeria)
-      *  Igala (from Nigeria)
-      *  Tiv (from Nigeria)
-      *  Tswana-Shweshwe (from South Africa)
-      *  Xhosa-South Africa (from South Africa)
-      *  Zulu (from South Africa)
+The dataset consists of images of African attires gathered from the internet using a web scraping Google Chrome extension. The dataset contains the following details:
+- 8 classes representing different African tribes:
+  - Adire (from Nigeria)
+  - Idgo (from Nigeria)
+  - Idoma (from Nigeria)
+  - Igala (from Nigeria)
+  - Tiv (from Nigeria)
+  - Tswana-Shweshwe (from South Africa)
+  - Xhosa-South Africa (from South Africa)
+  - Zulu (from South Africa)
+- Training set: 9784 images belonging to the 8 classes
+- Validation set: 2579 images belonging to the 8 classes
+- Total: 12,363 images
 
-Dataset Class diagram
+## Installation
+To use the code in this repository, follow these steps:
+1. Clone the repository: `git clone https://github.com/your-username/african-attire-detection.git`
+2. Navigate to the project directory: `cd african-attire-detection`
+3. Install the required dependencies: `pip install -r requirements.txt`
 
-![Class Diagram Realization Example](https://user-images.githubusercontent.com/65142149/227274778-dc7891a9-908e-4682-98b8-2b68c1a534e5.png)
+## Usage
+1. Ensure you have installed the required dependencies.
+2. Prepare your dataset and ensure it follows the specified format.
+3. Modify the code to load and preprocess your dataset, adjust hyperparameters, etc.
+4. Train the deep learning model using the provided scripts or adapt them to your specific requirements.
+5. Evaluate the model's performance and make predictions on new images.
+6. Experiment with different architectures, techniques, or augmentations to improve the model's accuracy.
+
+## Technologies
+The project is implemented using the following technologies and libraries:
+- TensorFlow
+- Python
+- Colab (Jupyter Notebook)
+- Deep Learning
+- Image Classification
+- Convolutional Neural Networks (CNN)
+- Computer Vision
+
+## Contributing
+Contributions to this project are welcome. To contribute, follow these steps:
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`
+3. Make your changes and commit them: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature`
+5. Submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## References
+- Dataset: [Google Drive](https://drive.google.com/drive/folders/1jhMG6vnsKqDm5uILBMLezU2Ll5ljWOZy?usp=sharing)
+- Image Link 1: [Freepik](https://www.freepik.com/free-photo/medium-shot-men-playing-drums_16130603.htm#from_view=detail_serie)
+- Image Link 2: [Freepik](https://www.freepik.com/free-vector/african-people-clothing-flat-icons-collection_4006260.htm#query=african%20attire&position=32&from_view=search&track=ais)
 
 *Feel free to follow me and ask questions:*
 
-https://twitter.com/InuwaAbraham
+- [Twitter](https://twitter.com/InuwaAbraham)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/inuwamobarak/)
+- [LinkedIn](https://www.linkedin.com/in/mobarak-inuwa/)
+- [Strikingly](https://mobarak.mystrikingly.com/) 
 
-https://www.analyticsvidhya.com/blog/author/inuwamobarak/
-
-https://www.linkedin.com/in/mobarak-inuwa/
-
-https://mobarak.mystrikingly.com/
-
-*Reference:*
-
-Dataset: https://drive.google.com/drive/folders/1jhMG6vnsKqDm5uILBMLezU2Ll5ljWOZy?usp=sharing
-
-Image link: https://www.freepik.com/free-photo/medium-shot-men-playing-drums_16130603.htm#from_view=detail_serie
-
-Image link: https://www.freepik.com/free-vector/african-people-clothing-flat-icons-collection_4006260.htm#query=african%20attire&position=32&from_view=search&track=ais
